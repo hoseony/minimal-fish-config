@@ -1,2 +1,3 @@
-# minimal-fish-config
-Bare bone fish config made for Cooper Union microlab.
+# Minimal Fish Config
+
+A bare-bones, friendly Fish configuration for the Cooper Union Microlab.
