@@ -8,6 +8,14 @@
 function fish_greeting
     set_color brcyan
     printf '\n ◈  COOPER UNION MICROLAB | Now with FISH ◈\n'
+    # you might want to remove this.... I like fish
+    printf '%s\n' \
+        '             /`-._' \
+        '           _/,.._/' \
+        "        ,-'   ,  `-:,.-')" \
+        "       : o ):';     _  {" \
+        "        `-.  `' _,.-\\`-.)" \
+        "           `\\\\``\\,.-'"
     set_color brblack
     printf ' Type `helpfish` for a tiny Fisherman\'s handbook.\n\n'
     set_color normal
